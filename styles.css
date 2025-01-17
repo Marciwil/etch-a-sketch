@@ -1,8 +1,12 @@
 .container {
-    height: 3000px;
-    width: auto;
+    height: 960px;
+    width: 960px;
 }
-
+.btn {
+    height: 20px;
+    width: 100px;
+    margin: 10px;
+}
 .row {
     display: flex;
     flex-direction: row;
