@@ -1,0 +1,19 @@
+.container {
+    height: 3000px;
+    width: auto;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.square {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    border: 1px black dotted;
+}
+
+.square:hover {
+    background-color: black;
+}
